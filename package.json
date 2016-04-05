@@ -1,0 +1,23 @@
+{
+  "name": "capstonedungeoncrawler",
+  "version": "1.0.0",
+  "description": "Node webserver for the SET Art Online capstone project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felinix/CapstoneDungeonCrawler.git"
+  },
+  "keywords": [
+    "capstone",
+    "game"
+  ],
+  "author": "Kyle Thomson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felinix/CapstoneDungeonCrawler/issues"
+  },
+  "homepage": "https://github.com/Felinix/CapstoneDungeonCrawler#readme"
+}
